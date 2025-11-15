@@ -1,0 +1,70 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #101828;
+}
+
+.container {
+  color: white;
+  border: 2px solid tan;
+  text-align: center;
+  padding: 100px;
+  width: 80%;
+  margin: 50px auto;
+}
+.odin-recipes {
+  font-size: 32px;
+  margin-bottom: 28px;
+  font-family: "Courier New", Courier, monospace;
+  background-color: #4b580f;
+}
+.recipes-list {
+  font-size: 18px;
+  font-family: "Courier New", Courier, monospace;
+}
+.lasagna {
+  margin: 8px auto;
+  background-color: cadetblue;
+  padding: 8px;
+  width: 50%;
+}
+.napa {
+  margin: 8px auto;
+  background-color: #056468;
+  padding: 8px;
+  width: 50%;
+}
+.bread {
+  margin: 8px auto;
+  background-color: #184142;
+  padding: 8px;
+  width: 50%;
+}
+ul {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+  color: whitesmoke;
+}
+.recipes-container{
+    background-color: #101828;
+    color: whitesmoke;
+    border-right: 2px solid tan;
+    border-left: 2px solid tan;
+    margin: 48px;
+}
+.subcontainer{
+    margin: 48px;
+}
+.home{
+    text-align: center;
+    font-size: 32px;
+    margin-bottom: 48px;
+    background-color: brown;
+    padding: 8px;
+}
